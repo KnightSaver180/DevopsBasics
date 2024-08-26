@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: Udemy Pool
+pool: Azure Pipelines
 
 steps:
 - task: Maven@3
